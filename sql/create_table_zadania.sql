@@ -1,0 +1,1 @@
+CREATE TABLE `zadania` (  `id` int(20) NOT NULL,  `opis` varchar(100) NOT NULL,  `zrobione` tinyint(1) NOT NULL);
